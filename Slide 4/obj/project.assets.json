@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Development\\2nd2ndyear\\op2\\Dev6A\\algo\\Slide1\\Slide1.csproj",
-      "projectName": "Slide1",
-      "projectPath": "c:\\Development\\2nd2ndyear\\op2\\Dev6A\\algo\\Slide1\\Slide1.csproj",
+      "projectUniqueName": "C:\\Development\\2nd2ndyear\\op2\\Dev6A\\algo\\Slide 4\\Slide 4.csproj",
+      "projectName": "Slide 4",
+      "projectPath": "C:\\Development\\2nd2ndyear\\op2\\Dev6A\\algo\\Slide 4\\Slide 4.csproj",
       "packagesPath": "C:\\Users\\I. Han\\.nuget\\packages\\",
-      "outputPath": "c:\\Development\\2nd2ndyear\\op2\\Dev6A\\algo\\Slide1\\obj\\",
+      "outputPath": "C:\\Development\\2nd2ndyear\\op2\\Dev6A\\algo\\Slide 4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
